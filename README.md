@@ -1,1 +1,1 @@
-# Shooting-Game-Project
+Console Shooter is a fast-paced, retro-style 2D shooting game where you control a player spaceship (P) to defeat waves of enemies (E). Dodge bullets, shoot down enemies, and survive as long as you can to level up and win. It's a thrilling terminal-based battle with increasing difficulty and old-school charm.
